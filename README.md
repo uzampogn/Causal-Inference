@@ -1,7 +1,7 @@
 Repository of articles on causal inference and hypothesis testing theory and techniques.
 
 Further resources on hypothesis testing:
-  - Comparing quantiles at scale in online A/B-testing - from [Spotify Engineering blog](Comparing quantiles at scale in online A/B-testing) - [arxiv link](https://arxiv.org/pdf/2202.10992.pdf)
+  - Comparing quantiles at scale in online A/B-testing - from [Spotify Engineering blog](https://engineering.atspotify.com/2022/03/comparing-quantiles-at-scale-in-online-a-b-testing/) - [arxiv link](https://arxiv.org/pdf/2202.10992.pdf)
 
 Further resources on Causal inference:
   - Causal Inference for the Brave and the True [Link](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
