@@ -13,3 +13,4 @@ Further resources on Causal inference:
   - Experimental and Quasi-Experimental: Designs for Generalized Causal Inference - [Link] (https://moodle2.units.it/pluginfile.php/132646/mod_resource/content/1/Estratto_ShadishCookCampbellExperimental2002.pdf)
   - What’s Trending in Difference-in-Differences? - [Link] (https://jonathandroth.github.io/assets/files/DiD_Review_Paper.pdf)
   - A survery of causal inference applications at Netflix - [Link](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
+  - Agnostic notes on regression adjustments to experimental data: reexamining freedman's critique - [Link](https://arxiv.org/pdf/1208.2301.pdf)
