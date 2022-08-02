@@ -14,3 +14,5 @@ Further resources on Causal inference:
   - What’s Trending in Difference-in-Differences? - [Link] (https://jonathandroth.github.io/assets/files/DiD_Review_Paper.pdf)
   - A survery of causal inference applications at Netflix - [Link](https://netflixtechblog.com/a-survey-of-causal-inference-applications-at-netflix-b62d25175e6f)
   - Agnostic notes on regression adjustments to experimental data: reexamining freedman's critique - [Link](https://arxiv.org/pdf/1208.2301.pdf)
+  - Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement - [Link](https://arxiv.org/pdf/2201.07055.pdf)
+  - A Crash Course in Good and Bad Controls [Link](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
