@@ -16,3 +16,5 @@ Further resources on Causal inference:
   - Agnostic notes on regression adjustments to experimental data: reexamining freedman's critique - [Link](https://arxiv.org/pdf/1208.2301.pdf)
   - Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement - [Link](https://arxiv.org/pdf/2201.07055.pdf)
   - A Crash Course in Good and Bad Controls [Link](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
+  - Using Causal Inference to Improve the Uber User Experience [Link](https://www.uber.com/en-DE/blog/causal-inference-at-uber/)
+  - How Booking.com increases the power of online experiments with CUPED - [Link](https://booking.ai/how-booking-com-increases-the-power-of-online-experiments-with-cuped-995d186fff1d)
