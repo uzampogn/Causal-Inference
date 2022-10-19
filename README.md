@@ -18,3 +18,4 @@ Further resources on Causal inference:
   - Close Enough? A Large-Scale Exploration of Non-Experimental Approaches to Advertising Measurement - [Link](https://arxiv.org/pdf/2201.07055.pdf)
   - A Crash Course in Good and Bad Controls [Link](https://ftp.cs.ucla.edu/pub/stat_ser/r493.pdf)
   - Using Causal Inference to Improve the Uber User Experience [Link](https://www.uber.com/en-DE/blog/causal-inference-at-uber/)
+  - What if? [Link](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/)
